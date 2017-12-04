@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "array-uniq": "^1.0.3",
+    "bowser": "^1.7.3",
     "component-clone": "0.2.2",
     "component-each": "0.2.6",
     "component-emitter": "1.1.2",
@@ -24,9 +25,11 @@
     "lodash.isempty": "^4.4.0",
     "lodash.isfinite": "^3.3.2",
     "lodash.pick": "^4.4.0",
+    "merge": "^1.2.0",
     "mixin": "https://github.com/kewah/mixin#0.1.0",
     "promise": "7.1.1",
     "qs": "0.6.6",
+    "tabbable": "^1.1.0",
     "to-slug-case": "0.1.2"
   },
   "engines": {
